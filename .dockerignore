@@ -1,0 +1,10 @@
+.git/
+.gitignore
+.idea/
+*.iml
+.vscode/
+frontend/node_modules/
+frontend/dist/
+backend/.gradle/
+backend/build/
+*.log
